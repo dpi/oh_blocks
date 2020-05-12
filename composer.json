@@ -1,0 +1,15 @@
+{
+  "name": "dpi/oh_blocks",
+  "description": "Sample blocks for OH.",
+  "keywords": ["Drupal"],
+  "license": "MIT",
+  "homepage": "https://github.com/dpi/oh_blocks",
+  "support": {
+    "source": "https://github.com/dpi/oh_blocks",
+    "issues": "https://github.com/dpi/oh_blocks/issues"
+  },
+  "require": {
+    "php": "^7.3",
+    "drupal/oh": "^2"
+  }
+}
